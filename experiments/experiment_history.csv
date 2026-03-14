@@ -1,0 +1,3 @@
+run_name,timestamp,input_file,original_input_name,model_name,device,segment,shifts,mp3,output_dir,stems_dir,elapsed_seconds
+run_20260314_141347_baseline_test_01,2026-03-14T14:18:37.056194,samples\test.wav,test.wav,htdemucs,cpu,,1,False,outputs\htdemucs\run_20260314_141347_baseline_test_01,outputs\htdemucs\run_20260314_141347_baseline_test_01\stems,289.8964
+run_20260314_143035_bodies_of_blue,2026-03-14T14:34:04.824722,samples\bodies_of_blue.wav,bodies_of_blue.wav,htdemucs,cpu,,1,False,outputs\htdemucs\run_20260314_143035_bodies_of_blue,outputs\htdemucs\run_20260314_143035_bodies_of_blue\stems,209.4972

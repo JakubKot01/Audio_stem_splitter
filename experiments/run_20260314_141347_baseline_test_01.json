@@ -1,0 +1,14 @@
+{
+    "run_name": "run_20260314_141347_baseline_test_01",
+    "timestamp": "2026-03-14T14:18:37.056194",
+    "input_file": "samples\\test.wav",
+    "original_input_name": "test.wav",
+    "model_name": "htdemucs",
+    "device": "cpu",
+    "segment": null,
+    "shifts": 1,
+    "mp3": false,
+    "output_dir": "outputs\\htdemucs\\run_20260314_141347_baseline_test_01",
+    "stems_dir": "outputs\\htdemucs\\run_20260314_141347_baseline_test_01\\stems",
+    "elapsed_seconds": 289.8964
+}

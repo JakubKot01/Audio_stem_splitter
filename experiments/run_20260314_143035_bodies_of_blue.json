@@ -1,0 +1,14 @@
+{
+    "run_name": "run_20260314_143035_bodies_of_blue",
+    "timestamp": "2026-03-14T14:34:04.824722",
+    "input_file": "samples\\bodies_of_blue.wav",
+    "original_input_name": "bodies_of_blue.wav",
+    "model_name": "htdemucs",
+    "device": "cpu",
+    "segment": null,
+    "shifts": 1,
+    "mp3": false,
+    "output_dir": "outputs\\htdemucs\\run_20260314_143035_bodies_of_blue",
+    "stems_dir": "outputs\\htdemucs\\run_20260314_143035_bodies_of_blue\\stems",
+    "elapsed_seconds": 209.4972
+}
