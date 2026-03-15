@@ -1,0 +1,14 @@
+{
+    "run_name": "run_20260315_115709_hozier",
+    "timestamp": "2026-03-15T11:59:52.733903",
+    "input_file": "samples\\blood_upon_the_snow.wav",
+    "original_input_name": "blood_upon_the_snow.wav",
+    "model_name": "htdemucs",
+    "device": "cpu",
+    "segment": null,
+    "shifts": 1,
+    "mp3": false,
+    "output_dir": "outputs\\htdemucs\\run_20260315_115709_hozier",
+    "stems_dir": "outputs\\htdemucs\\run_20260315_115709_hozier\\stems",
+    "elapsed_seconds": 162.8289
+}

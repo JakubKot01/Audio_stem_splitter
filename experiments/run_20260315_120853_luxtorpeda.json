@@ -1,0 +1,14 @@
+{
+    "run_name": "run_20260315_120853_luxtorpeda",
+    "timestamp": "2026-03-15T12:11:17.117244",
+    "input_file": "samples\\luxtorpeda.wav",
+    "original_input_name": "luxtorpeda.wav",
+    "model_name": "htdemucs",
+    "device": "cpu",
+    "segment": null,
+    "shifts": 1,
+    "mp3": false,
+    "output_dir": "outputs\\htdemucs\\run_20260315_120853_luxtorpeda",
+    "stems_dir": "outputs\\htdemucs\\run_20260315_120853_luxtorpeda\\stems",
+    "elapsed_seconds": 143.2477
+}
