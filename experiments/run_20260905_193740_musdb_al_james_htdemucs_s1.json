@@ -1,0 +1,30 @@
+{
+    "run_name": "run_20260905_193740_musdb_al_james_htdemucs_s1",
+    "timestamp": "2026-09-05T19:50:11.280856",
+    "input_file": "musdb18hq\\test\\Al James - Schoolboy Facination\\mixture.wav",
+    "original_input_name": "mixture.wav",
+    "model_name": "htdemucs_ft",
+    "device": "cpu",
+    "segment": null,
+    "shifts": 1,
+    "mp3": false,
+    "output_dir": "outputs\\htdemucs_ft\\run_20260905_193740_musdb_al_james_htdemucs_s1",
+    "stems_dir": "outputs\\htdemucs_ft\\run_20260905_193740_musdb_al_james_htdemucs_s1\\stems",
+    "elapsed_seconds": 750.6189,
+    "evaluation_status": "completed",
+    "reference_dir": "musdb18hq\\test\\Al James - Schoolboy Facination",
+    "evaluation_mapping": "identity",
+    "evaluation_json": "experiments\\evaluations\\run_20260905_193740_musdb_al_james_htdemucs_s1.json",
+    "evaluated_stems": [
+        "bass",
+        "drums",
+        "other",
+        "vocals"
+    ],
+    "mean_si_sdr_db": 6.436278257870627,
+    "median_si_sdr_db": 6.728011757095913,
+    "mean_sdr_db": 7.433044659038929,
+    "median_sdr_db": 7.558525135097207,
+    "mean_si_sdri_db": 11.46218909503938,
+    "median_si_sdri_db": 11.020023235979652
+}

@@ -1,0 +1,6 @@
+{
+    "vocals": ["vocals"],
+    "drums": ["drums"],
+    "bass": ["bass"],
+    "other": ["other", "guitar", "piano"]
+}

@@ -4,5 +4,4 @@ librosa
 torch
 torchaudio
 typer
-pathlib
 demucs

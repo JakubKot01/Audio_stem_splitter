@@ -1,0 +1,15 @@
+{
+    "run_name": "run_20260905_094518_test",
+    "timestamp": "2026-09-05T09:48:20.509093",
+    "input_file": "samples\\test.wav",
+    "original_input_name": "test.wav",
+    "model_name": "htdemucs",
+    "device": "cpu",
+    "segment": null,
+    "shifts": 1,
+    "mp3": false,
+    "output_dir": "outputs\\htdemucs\\run_20260905_094518_test",
+    "stems_dir": "outputs\\htdemucs\\run_20260905_094518_test\\stems",
+    "elapsed_seconds": 181.5062,
+    "evaluation_status": "not_requested"
+}
